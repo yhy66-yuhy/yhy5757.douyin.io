@@ -1036,9 +1036,7 @@
                 "play_addr": {
                     "uri": "v0200fg10000cp1k83bc77u1d7qvk41g",
                     "url_list": [
-                        "http://v26-web.douyinvod.com/892dcfa9f8de1a96973898bf8e272e93/668b8154/video/tos/cn/tos-cn-ve-15/oUbSR0NCQBAeXEDIRE6bCZAFE0QgVm7fnA9DDd/?a=6383\u0026ch=10\u0026cr=3\u0026dr=0\u0026lr=all\u0026cd=0%7C0%7C0%7C3\u0026cv=1\u0026br=2413\u0026bt=2413\u0026cs=0\u0026ds=3\u0026ft=AJkeU_TLRR0sWrC12D12Nc.xBiGNbLHY~-sU_45GRr~JNv7TGW\u0026mime_type=video_mp4\u0026qs=0\u0026rc=NWg7O2hnaDgzPDM5OTZlOUBpajd5OjQ6ZjZuczMzNGkzM0AwLmAtX2IwNTUxNjEuYWAuYSMuaG5hcjRfNS5gLS1kLS9zcw%3D%3D\u0026btag=c0000e00030000\u0026cquery=100B_100x_100z_100o_101r\u0026dy_q=1720411141\u0026feature_id=f0150a16a324336cda5d6dd0b69ed299\u0026l=20240708115901BAEDA565CF958A070224",
-                        "http://v3-web.douyinvod.com/1a17739a164e5d1ec1da164db121759f/668b8154/video/tos/cn/tos-cn-ve-15/oUbSR0NCQBAeXEDIRE6bCZAFE0QgVm7fnA9DDd/?a=6383\u0026ch=10\u0026cr=3\u0026dr=0\u0026lr=all\u0026cd=0%7C0%7C0%7C3\u0026cv=1\u0026br=2413\u0026bt=2413\u0026cs=0\u0026ds=3\u0026ft=AJkeU_TLRR0sWrC12D12Nc.xBiGNbLHY~-sU_45GRr~JNv7TGW\u0026mime_type=video_mp4\u0026qs=0\u0026rc=NWg7O2hnaDgzPDM5OTZlOUBpajd5OjQ6ZjZuczMzNGkzM0AwLmAtX2IwNTUxNjEuYWAuYSMuaG5hcjRfNS5gLS1kLS9zcw%3D%3D\u0026btag=c0000e00030000\u0026cquery=100x_100z_100o_101r_100B\u0026dy_q=1720411141\u0026feature_id=f0150a16a324336cda5d6dd0b69ed299\u0026l=20240708115901BAEDA565CF958A070224",
-                        "https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000cp1k83bc77u1d7qvk41g\u0026line=0\u0026file_id=16cbd31646904980853eedbe08c81e32\u0026sign=b06ec2a79998311744536271d3f7be36\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
+                          "https://www.douyin.com/aweme/v1/play/?video_id=v0200fg10000cp1k83bc77u1d7qvk41g\u0026line=0\u0026file_id=16cbd31646904980853eedbe08c81e32\u0026sign=b06ec2a79998311744536271d3f7be36\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
                     ],
                     "width": 1152,
                     "height": 720,
