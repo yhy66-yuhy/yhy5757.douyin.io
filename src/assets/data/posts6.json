@@ -1,14 +1,13 @@
 {
-    {
-            "aweme_id": "7370313950279372069",
-            "desc": "#使命召唤手游",
-            "create_time": 1716034950,
-            "author": {
-                "uid": "2564538096167200",
-                "personal_tag_list": null,
-                "nickname": "yhy5757",
-                "not_seen_item_id_list_v2": null,
-                "verification_permission_ids": null,
+  "aweme_id": "7370313950279372069",
+  "desc": "#使命召唤手游",
+  "create_time": 1716034950,
+  "author": {
+    "uid": "2564538096167200",
+    "personal_tag_list": null,
+    "nickname": "yhy5757",
+    "not_seen_item_id_list_v2": null,
+    "verification_permission_ids": null,
                 "avatar_168×168": {
                     "uri": "100x100/aweme-avatar/tos-cn-i-0813c001_oYvzBonDAG9fAIEEyCemAaAngHCyAAscb2MASC",
                     "url_list": [
